@@ -1,0 +1,15 @@
+# Java
+target/
+*.jar
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
